@@ -184,14 +184,18 @@ footer {
     .titulo-imagenes {
         display: flex;
     }
+    .encabezado-titulo {
+        width: ;
+    }
     .icono1 {
         display: block;
         margin-left: -239px;
     }
     .icono2 {
         display: block;
-        margin-left: 681px;
-        margin-top: -130px;
+        margin-left: -69px;
+        margin-right: -90px;
+        margin-top: 189px;
     }
     .icono3 {
         display: block;

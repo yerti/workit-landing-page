@@ -86,7 +86,7 @@ main {
     width: 320px;
     height: 184px;
     margin: -90px auto;
-    background-image: url("./assets/images/image-hero.webp");
+    background-image: url("starter-code/assets/images/image-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
